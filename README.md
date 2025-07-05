@@ -14,3 +14,28 @@ In the initial phase of data cleaning and preparation I performed the following 
 - Handling missing values and outliers
 - Data cleaning and formatting
 ### Exploratory Data Analysis
+This involves investigating the product which leads me to caculating:
+- The average discount percentage by product,
+- The number of prlodicts listed under each category,
+- The total number of reviews,
+- The product with the highest average rating,
+- Products with the highest discounts etc.
+### Key Performance Indicator
+- Toys & Games had the highest discount percentage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
