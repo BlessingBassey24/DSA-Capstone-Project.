@@ -31,12 +31,24 @@ This involves exploring the data to answer these questions:
 - Total Number of Reviews per Category (Top: Electronics- 13,7722)
 - Product with highest average rating (Top: Home&Kitichen- 4.1)
 - Product with the higest discount (Top: Computer&Accessories)
+
+  
 ### Key Observation
 From the analysis gotten, my key observations are:
-- Health and personal care products has the lowest discount percent
+- Home improvement products has the lowest discount percent
 - There's a very low patronage of office products
 - Toys and games had the lowest revenue
-- 
+- Electronics had the highest product review
+- Electronices and computer assesosries had the highest rating count
+### Recommendation
+- Based on the above analysis, I'll recommend that:
+- Amazon should focus more on Electronics because it generates the highest revenue for the company
+- Also, the company should improve on making sure to improve the quality of office product, toys&games and other product with less patronage
+- The company should encourage customers to leave reviews for office products and toys&games because positive reviews help increase visibility and drive sales
+- Amazon should also utilize the success of electronics by cross-promoting other products. They should consider bunding electronics with office products or offering discount for customers who purchase mulitple products.
+- For a better marketing strategies, Amazon should counsider using Amazon Fulfilment (FBA) to improve shiping times and customer satisfaction.
+### Conclusion
+By implementing the above recommendation, the company can potentially improve sales, increase customer satisfaction, and drive revenue growth.
 
 
 
