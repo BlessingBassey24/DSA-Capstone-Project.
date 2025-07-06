@@ -31,6 +31,8 @@ This involves exploring the data to answer these questions:
 - Total Number of Reviews per Category (Top: Electronics- 13,7722)
 - Product with highest average rating (Top: Home&Kitichen- 4.1)
 - Product with the higest discount (Top: Computer&Accessories)
+![Amazon Product Dashboard](https://github.com/user-attachments/assets/2d25eea0-1070-4105-80f7-740e62c3a828)
+![Excel Table](https://github.com/user-attachments/assets/4058df46-cb2d-4ee4-815a-aa0201f414ac)
 
   
 ### Key Observation
