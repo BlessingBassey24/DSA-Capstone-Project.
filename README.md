@@ -33,7 +33,6 @@ This involves exploring the data to answer these questions:
 - Product with the higest discount (Top: Computer&Accessories)
 ![Amazon Product Dashboard](https://github.com/user-attachments/assets/2d25eea0-1070-4105-80f7-740e62c3a828)
 ![Excel Table](https://github.com/user-attachments/assets/4058df46-cb2d-4ee4-815a-aa0201f414ac)
-
   
 ### Key Observation
 From the analysis gotten, my key observations are:
@@ -43,7 +42,7 @@ From the analysis gotten, my key observations are:
 - Electronics had the highest product review
 - Electronices and computer assesosries had the highest rating count
 ### Recommendation
-- Based on the above analysis, I'll recommend that:
+ Based on the above analysis, I'll recommend that:
 - Amazon should focus more on Electronics because it generates the highest revenue for the company
 - Also, the company should improve on making sure to improve the quality of office product, toys&games and other product with less patronage
 - The company should encourage customers to leave reviews for office products and toys&games because positive reviews help increase visibility and drive sales
