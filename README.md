@@ -4,7 +4,11 @@ The Amazon product review analysis aims to generate insights into the sales perf
 ### Dataset Description.
 The Amazon product review provided by DSA includes the following key Product details: name, category, price, discount, and ratings. Customer engagement: user reviews, titles, and content.Each row represent unique products with aggregated reviewer data stored as comma-seperated values. A total record of 1,465 rows and 16 columns.
 ### Tools Used.
-- MS Excel (For data cleaning)
+- **Microsoft Excel**
+     - For data cleaning
+     - For creating caculated column
+     - For creating pivot tables and
+     - Dashboard
 ### Data Cleaning and Transformation.
 In the initial phase of data cleaning and transformation, I performed the following actions:
 - Data loading and Inspection
@@ -15,7 +19,7 @@ In the initial phase of data cleaning and transformation, I performed the follow
 - Handling missing values and outliers
 - Filtering irrelevant data and formatting
 ### Exploratory Data Analysis
-This involves investigating the product which leads me to caculating:
+This involves exploring the data to answer these questions:
 - The average discount percentage by product,
 - The number of products listed under each category,
 - The total number of reviews per catrgory,
