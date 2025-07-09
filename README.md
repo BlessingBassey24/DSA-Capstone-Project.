@@ -1,6 +1,6 @@
 # Project Topic: AMAZON PRODUCT REVIEW ANALYSIS.
-## Table of contents.
-- Project Overview
+## Table of contents
+*[ Project Overview](#project-overview)
 - Dataset Description
 - Tools Used
 - Data Cleaning and Transformation.
