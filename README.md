@@ -1,15 +1,15 @@
 # Project Topic: AMAZON PRODUCT REVIEW ANALYSIS.
 ## Table of contents
 - [ Project Overview](#project-overview)
-- Dataset Description
-- Tools Used
-- Data Cleaning and Transformation.
-- Exploratory Data Analysis
-- Key Performance Indicator
-- Dashboard Visuals
-- Key Observation
-- Recomendation
-- Conclusion
+- [Dataset Description](#dataset-description)
+- [Tools Used](tools-used)
+- [Data Cleaning and Transformation](data-cleaning-and-transformation)
+- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Key Performance Indicator](key-performance-inidcator)
+- [Dashboard Visuals](dashboard-visuals)
+- [Key Observation](key-observation)
+- [Recomendation](recommendation)
+- [Conclusion](conclusion)
 ## Project Overview.
 The Amazon product review analysis aims to generate insights into the sales performance based on customer and product reviews to help improve marketing strategy, customer engagement, and product improvement.It also focuses on applying data analytics skills using Excel.  The project is structured around business questions, aimed at demonstrating my ability to collect, clean, analyze, and visualize data for actionable insights.
 ### Dataset Description.
