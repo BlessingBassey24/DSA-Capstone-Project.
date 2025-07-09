@@ -1,4 +1,15 @@
 # Project Topic: AMAZON PRODUCT REVIEW ANALYSIS.
+## Table of contents.
+- Project Overview
+- Dataset Description
+- Tools Used
+- Data Cleaning and Transformation.
+- Exploratory Data Analysis
+- Key Performance Indicator
+- Dashboard Visuals
+- Key Observation
+- Recomendation
+- Conclusion
 ## Project Overview.
 The Amazon product review analysis aims to generate insights into the sales performance based on customer and product reviews to help improve marketing strategy, customer engagement, and product improvement.It also focuses on applying data analytics skills using Excel.  The project is structured around business questions, aimed at demonstrating my ability to collect, clean, analyze, and visualize data for actionable insights.
 ### Dataset Description.
@@ -31,6 +42,7 @@ This involves exploring the data to answer these questions:
 - Total Number of Reviews per Category (Top: Electronics- 13,7722)
 - Product with the highest average rating (Top: Home & Kitchen- 4.1)
 - Product with the highest discount (Top: Computer&Accessories)
+### Dashboard Visuals
 ![Amazon Product Dashboard](https://github.com/user-attachments/assets/2d25eea0-1070-4105-80f7-740e62c3a828)
 ![Excel Table](https://github.com/user-attachments/assets/4058df46-cb2d-4ee4-815a-aa0201f414ac)
   
