@@ -44,7 +44,6 @@ This involves exploring the data to answer these questions:
 - Product with the highest discount (Top: Computer&Accessories)
 ### Dashboard Visuals
 ![Amazon Product Dashboard](https://github.com/user-attachments/assets/2d25eea0-1070-4105-80f7-740e62c3a828)
-![Excel Table](https://github.com/user-attachments/assets/4058df46-cb2d-4ee4-815a-aa0201f414ac)
   
 ### Key Observation
 From the analysis, my key observations are:
